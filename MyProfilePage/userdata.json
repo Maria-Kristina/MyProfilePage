@@ -1,0 +1,57 @@
+{
+    "userCount": "2",
+    "users": [{
+        "userName": "Maria Sillanmaki",
+        "email": "maria@metropolia.fi",
+        "password": "123",
+        "coursesTakenCount": "2",
+        "coursesTaken": [{
+            "courseID": "1",
+            "courseName": "Learn Java"
+        },
+        {
+            "courseID": "2",
+            "courseName": "Advanced Java Programming"
+        }],
+        "coursesInProgressCount": "3",
+        "coursesInProgress": [{
+            "courseID": "4",
+            "courseName": "Javascript basics"
+        },
+        {
+            "courseID": "5",
+            "courseName": "Advanced Javascript"
+        },
+        {
+            "courseID": "6",
+            "courseName": "Javascript to Typescript"
+        }]
+    },
+    {
+        "userName": "Seppo Sillanmaki",
+        "email": "seppo@seppo.fi",
+        "password": "123",
+        "coursesTakenCount": "2",
+        "coursesTaken": [{
+            "courseID": "1",
+            "courseName": "Learn Java"
+        },
+        {
+            "courseID": "2",
+            "courseName": "Advanced Java Programming"
+        }],
+        "coursesInProgressCount": "3",
+        "coursesInProgress": [{
+            "courseID": "4",
+            "courseName": "Javascript basics"
+        },
+        {
+            "courseID": "5",
+            "courseName": "Advanced Javascript"
+        },
+        {
+            "courseID": "6",
+            "courseName": "Javascript to Typescript"
+        }]
+    }]
+}
